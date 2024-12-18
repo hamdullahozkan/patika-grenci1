@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35605.110 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikaögrenci1", "patikaögrenci1\patikaögrenci1.csproj", "{6A6AEFC8-5A4A-433E-AEB9-E1E6829A447A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6AEFC8-5A4A-433E-AEB9-E1E6829A447A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6AEFC8-5A4A-433E-AEB9-E1E6829A447A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6AEFC8-5A4A-433E-AEB9-E1E6829A447A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6AEFC8-5A4A-433E-AEB9-E1E6829A447A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B41B17-D25D-495C-AFCC-4B741D3FBBD2}
+	EndGlobalSection
+EndGlobal
