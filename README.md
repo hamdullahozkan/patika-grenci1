@@ -1,0 +1,1 @@
+# patikaögrenci1
